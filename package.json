@@ -1,0 +1,14 @@
+{
+  "name": "graph-alyze",
+  "version": "1.0.0",
+  "description": "Visuzalizing graphs and sorting algorithms",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Mujahid Elmaki",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^24.2.0"
+  }
+}
